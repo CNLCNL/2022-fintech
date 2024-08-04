@@ -1,0 +1,2 @@
+test_grid_soft_pseudo_168_weights_cbc.txt：a榜最高分的预测结果
+文件路径需自己设置
